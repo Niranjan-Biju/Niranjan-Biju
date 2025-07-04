@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">
+<img align="right" alt="Coding" width="180" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF5NHBmbWo5cmx0NmR0cHI3ajZxY3dlOTk3eWV2czE5M29neGMzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z5bRQ16BNy0yyI9n5b/giphy.gif">
 
 I'm Niranjan Biju, an aspiring **Python Developer** and **Automation Enthusiast** who loves turning ideas into tools. I'm currently building workflows using **n8n**, exploring **Django**, and creating smart web applications.
 
@@ -26,6 +26,10 @@ I'm Niranjan Biju, an aspiring **Python Developer** and **Automation Enthusiast*
 - 🧠 Currently learning: **Django**, **Python**, and new tools in automation and AI  
 - 🛠️ Building: **n8n automations**, **Django apps**, and frontend projects using **HTML & CSS**  
 - 🔄 Motto: **Learn → Build → Repeat**
+
+
+<br>
+<br>
 
 ---
 
