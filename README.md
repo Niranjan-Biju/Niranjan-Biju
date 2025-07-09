@@ -99,6 +99,12 @@ I'm Niranjan Biju, an aspiring **Python Developer** and **Automation Enthusiast*
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjan-Biju&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=15" width="100%"/>
 
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 ---
 
 ## 🤝 Let's Connect!
