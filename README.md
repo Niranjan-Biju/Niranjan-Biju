@@ -38,7 +38,7 @@ I'm Niranjan Biju, an aspiring **Python Developer** and **Automation Enthusiast*
 <div align="center">
 
 ### 👨‍💻 Languages  
-<img src="https://skillicons.dev/icons?i=python,c,html,css,dart,markdown" height="40" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,dart,markdown,js" height="40" />
 
 </div>
 
@@ -47,7 +47,7 @@ I'm Niranjan Biju, an aspiring **Python Developer** and **Automation Enthusiast*
 <div align="center">
 
 ### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,flutter" height="40" />
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter" height="40" />
 
 </div>
 
@@ -65,7 +65,7 @@ I'm Niranjan Biju, an aspiring **Python Developer** and **Automation Enthusiast*
 <div align="center">
 
 ### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" />
 
 </div>
 
