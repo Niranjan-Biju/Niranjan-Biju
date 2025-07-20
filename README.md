@@ -73,7 +73,7 @@ I'm Niranjan Biju, an aspiring **Python Developer** and **Automation Enthusiast*
 <div align="center">
 
 ### 🧰 Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="40" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" height="40" />
 <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="50" height="50" style="vertical-align:middle; margin:4px;" />
 
 </div>
