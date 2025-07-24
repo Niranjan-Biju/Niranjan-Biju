@@ -46,7 +46,7 @@ I'm Niranjan Biju, an aspiring **Python Developer** and **Automation Enthusiast*
 <div align="center">
 
 ### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,flutter" height="40" />
+<img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
 
 </div>
 
