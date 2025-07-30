@@ -22,7 +22,8 @@
 
 I'm Niranjan Biju, an aspiring **Python Developer** and **Automation Enthusiast** who loves turning ideas into tools. I'm currently building workflows using **n8n**, exploring **Django** and **Nginx** 
 - ⚙️ I enjoy automating repetitive tasks with logic and creativity  
-- 🧠 Currently learning: **Django**, **Python**, and new tools in automation and AI  
+- 🧠 Currently learning: **Django**, **Python**, and new tools in automation and AI
+- 🧑‍💻 Building a strong foundation in coding through LeetCode
 - 🛠️ Building: **n8n automations**, **Django apps**, and APIs using **Django REST Framework**  
 - 🔄 Motto: **Learn → Build → Repeat**
 
