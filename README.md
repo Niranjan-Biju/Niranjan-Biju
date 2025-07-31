@@ -4,7 +4,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,0&height=180&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Niranjan%20Biju&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=✨+Aspiring+Python+Developer;⚙️+Automation+Enthusiast;🌱+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=120&lines=✨+Aspiring+Python+Developer;⚙️+Automation+Enthusiast;🌱+Tech+Explorer;LeetCoder;" alt="Typing SVG" />
+
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Niranjan-Biju&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
