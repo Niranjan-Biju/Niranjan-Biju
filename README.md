@@ -39,7 +39,7 @@ I'm Niranjan Biju, an aspiring **Python Developer** and **Automation Enthusiast*
 <div align="center">
 
 ### 👨‍💻 Languages  
-<img src="https://skillicons.dev/icons?i=python,c,html,css,dart,markdown,js" height="40" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,markdown,js" height="40" />
 
 </div>
 
